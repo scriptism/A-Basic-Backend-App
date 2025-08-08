@@ -13,7 +13,7 @@ A simple Express.js server with SQLite database for form handling.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/scriptism/A-Basic-Backend-App.git
    cd server_cursor
    ```
 
