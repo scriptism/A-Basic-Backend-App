@@ -1,4 +1,4 @@
-# Server Cursor
+⁸# Server Cursor
 
 A simple Express.js server with SQLite database for form handling.
 
@@ -21,7 +21,6 @@ A simple Express.js server with SQLite database for form handling.
    ```bash
    npm install
    ```
-
 3. **Run the server**
    ```bash
    node index.js
