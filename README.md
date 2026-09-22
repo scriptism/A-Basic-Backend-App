@@ -3,7 +3,6 @@
 A simple Express.js server with SQLite database for form handling.
 
 ## Features
-
 - Express.js web server
 - SQLite database for data storage
 - Form submission handling
