@@ -1,5 +1,4 @@
 ⁸# Server Cursor
-
 A simple Express.js server with SQLite database for form handling.
 
 ## Features
