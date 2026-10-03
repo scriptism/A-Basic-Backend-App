@@ -8,7 +8,6 @@ A simple Express.js server with SQLite database for form handling.
 - User data display endpoint
 
 ## Setup
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/scriptism/A-Basic-Backend-App.git
