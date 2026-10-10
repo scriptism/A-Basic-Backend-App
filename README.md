@@ -6,7 +6,6 @@ A simple Express.js server with SQLite database for form handling.
 - SQLite database for data storage
 - Form submission handling
 - User data display endpoint
-
 ## Setup
 1. **Clone the repository**
    ```bash
